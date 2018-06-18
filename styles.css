@@ -10,5 +10,5 @@ body {
 }
 
 .blue_robot {
-	transform: translateX(200px);
+	transform: translateX(100%);
 }
